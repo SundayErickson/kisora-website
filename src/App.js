@@ -1,12 +1,12 @@
 import React from 'react';
 
-const KisoraWebsite = () => {
+const KISORA = () => {
     return (
         <div>
-            <h1>Welcome to Kisora Website!</h1>
-            <p>This is a simple React component.</p>
+            <h1>Welcome to KISORA</h1>
+            <p>Your one-stop solution for all your needs.</p>
         </div>
     );
 };
 
-export default KisoraWebsite;
+export default KISORA;
